@@ -1,95 +1,149 @@
-# 👨‍💻 Muhammad Ramzan — Senior Flutter Developer
+# 👋 Muhammad Ramzan — Certified Full Stack & Flutter Developer
 
-Hi! I'm **Muhammad Ramzan**, a passionate and experienced **Senior Flutter Developer** with over 3 years of experience in designing, developing, and scaling cross-platform mobile applications. I specialize in Flutter, Dart, and mobile-first architectures, and I bring ideas to life with clean, efficient, and scalable code.
+Struggling with slow, unreliable web or mobile apps? I’m **Muhammad Ramzan**, a 💻 **Certified Full Stack Developer** and mobile app expert with deep expertise in **Flutter**, **Laravel**, **React**, and **Vue**. I deliver blazing-fast, scalable applications that have boosted client efficiency by over **30%**.
 
----
-
-## 🚀 About Me
-
-- 💼 Currently working as **Senior Flutter Developer** at **Tech Hype, Lahore**
-- 📱 Expert in **Flutter**, **Dart**, **Firebase**, **REST APIs**, and **CI/CD**
-- 🔄 Strong in **MVVM**, **state management**, **OOP**, and **responsive UI**
-- 🧠 Problem-solver with a knack for clean architecture and performance optimization
-- 🧪 Skilled in **unit/widget testing** and Agile team collaboration
+Whether you need a modern web platform, a cross-platform mobile app, or robust APIs — I'm your go-to developer for speed, scalability, and precision.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 What I Do
 
-`Flutter` `Dart` `Firebase` `RESTful APIs` `Laravel` `Google Maps SDK`  
-`Pusher` `CI/CD` `Java` `Kotlin` `Swift (Beginner)`  
-`Git` `Figma` `Jira` `Android Studio` `VS Code` `Xcode`
+### 🌐 Full Stack Web Application Development  
+Build responsive, secure, and scalable web apps using:
+- ⚙️ **Laravel**
+- ⚛️ **React.js**
+- 🖼 **Vue 3**
+- 🌿 **Node.js**
+
+### 📱 Hybrid Mobile App Development with Flutter  
+Create smooth, cross-platform mobile apps integrated with Firebase, RESTful APIs, and cloud services.
+
+### 🔌 RESTful API Development  
+Efficient and secure API development in **Laravel** and **Node.js**, enabling frontend-backend communication.
+
+### 🛍 E-Commerce & Marketplace Solutions  
+Build B2C, B2B, or multi-vendor apps with advanced features and rich user experiences.
+
+### 💬 Real-Time Communication  
+Develop real-time chat, video call, and notification apps using WebSockets, Firebase Realtime DB, and secure auth.
 
 ---
 
 ## 📱 Featured Projects
 
 ### 🛠 Hazir Hoon — Home Service Provider App  
-A Flutter app connecting users with handymen for home repairs.  
+A Flutter app connecting users with skilled workers for home repair services.  
 🔗 [Watch Demo](https://youtu.be/hamMufgMBPo?si=_kJQwjOKCuPjbSrx)
 
 ---
 
 ### 🍽 Foodie Moodie — Multi-Vendor Food Ordering App  
-A multi-vendor food delivery app built using Flutter with real-time order tracking and vendor dashboards.  
+Built using Flutter, this food delivery app supports multiple vendors, search, order tracking, and payments.  
 🔗 [Watch Demo](https://youtu.be/jslyPP4Hh-g)
 
 ---
 
-### 💰 Wanthu — Loan Management App  
-A secure Flutter app to post loan offers and requests with Laravel + Firebase backend.  
+### 💰 Wanthu — Loan Management System  
+A secure loan management platform built with Flutter + Laravel + Firebase, allowing easy loan negotiation and uploads.  
 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.wanthu.app&pcampaignid=web_share)
 
 ---
 
 ### 🏥 Azz Medical Associates — Appointment Booking App  
-Appointment scheduler app with real-time provider availability via Talkehr APIs.  
+Cross-platform app with Laravel backend and Talkehr API integration for real-time appointment management.  
 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.azzmedical.azzmedical)  
 🔗 [App Store](https://apps.apple.com/pk/app/azz-medical-associtaes/id6477295158)
 
 ---
 
-### 🍔 Pakistan Food Portal  
-Pakistan’s largest food discovery & discount app with Google Maps and search filters.  
-🔗 [App Store](https://apps.apple.com/us/app/pakistan-food-portal/id6737129770)  
-🔗 [Google Play](https://play.google.com/store/apps/details?id=com.pakistanfoodportal.app&pcampaignid=web_share)
+### 🍴 Pakistan Food Portal  
+The largest Pakistani food portal featuring Google Maps integration, deals, search filters, and user invitations.  
+🔗 [Google Play](https://play.google.com/store/apps/details?id=com.pakistanfoodportal.app&pcampaignid=web_share)  
+🔗 [App Store](https://apps.apple.com/us/app/pakistan-food-portal/id6737129770)
+
+---
+
+### 🔐 Admin Panel — Azz Medical  
+Built with Laravel and connected to Talkehr APIs for real-time healthcare provider updates.  
+🔗 [View Slides](https://docs.google.com/presentation/d/1R8HUJPEjHm35MAju1K26WjEtElG77FPWS5bcYdLJaIY/edit?usp=sharing)
+
+---
+
+### 🏦 ACHS | HBL Payment API  
+Developed Laravel APIs to integrate with HBL bank and validate ACHS vouchers.
 
 ---
 
 ### 📊 Finance Tracker App  
-An Android app for income/expense tracking with alerts and reminders.  
+Native Android income/expense tracker with reminder alerts and bill uploads.  
 🔗 [Watch Demo](https://youtu.be/O7zz9mzt7Uo)
 
 ---
 
-### ✈ AirSedona — Airline Ticket Verification App  
-Built exclusively for flight attendants with barcode scanning and seat management.
+### ✈ AirSedona — Ticket Verification System  
+Flutter app with barcode scanning for flight attendants to verify and manage ticket data.
 
 ---
 
 ### 🚨 eCitizenPH — Emergency Reporting App  
-An emergency reporting and alert system with real-time location and authority contact access.  
+Crisis reporting mobile app connected with emergency responders.  
 🔗 [Watch Demo](https://youtu.be/_1_5cOHKwww?si=TwUmzDblehN0aQua)
 
 ---
 
-### 🧠 ACHS | HBL API Development  
-Payment APIs integrated into HBL Connect App for ACHS fee vouchers.
+## 🧰 Tools & Technologies
+
+### 🖥 Languages
+`JavaScript` `PHP` `TypeScript` `Dart` `Python` `Java` `Kotlin`
+
+### 💻 Frontend
+`React.js` `Vue 3` `Next.js` `Tailwind CSS` `Bootstrap`
+
+### ⚙ Backend
+`Laravel` `Node.js` `Express.js`
+
+### 📦 Databases
+`MySQL` `PostgreSQL` `MongoDB` `Firebase` `SQLite` `MariaDB` `Oracle`
+
+### ☁ Cloud & DevOps
+`AWS (S3, EC2)` `Cloudflare Workers` `GitHub` `Vercel` `Bitbucket`
+
+### 🔗 APIs & Tools
+`REST APIs` `WebSockets` `OAuth 2FA` `Twilio` `OpenAI API`
 
 ---
 
-### ⚙ Admin Panel — Azz Medical Associates  
-Built in Laravel with Talkehr API integration for real-time healthcare provider updates.  
-🔗 [Project Slides](https://docs.google.com/presentation/d/1R8HUJPEjHm35MAju1K26WjEtElG77FPWS5bcYdLJaIY/edit?usp=sharing)
+## 🌟 Client Testimonials
+
+> ❝It was a pleasure working with Ramzan. Professional and efficient.❞  
+> — *Zakariya H., CEO, Quran Edu Platform*
+
+> ❝Muhammad was very reliable... he delivered beyond expectations.❞  
+> — *Vahn Marty Cagalawan*
+
+> ❝He followed my requirements and worked independently.❞  
+> — *Steve Hsieh, PM, Neeba Inc.*
 
 ---
 
-## 📫 Connect with Me
+## 🏅 Certifications
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ACoAAEFXKr0BXZq4aKn-vvciVnyYqlSGlPRJHvs)
-- 📩 Email: *[mhdramzan.dev@gmail.com]* 
+- 🎖 Upwork Skill Certified: **React Front-End Development**
+- 🎖 Node and Express Essentials
+- 🎖 Mastering Laravel 12 + Vue 3 – SPA Applications
+- 🎖 Advanced PHP & Laravel Framework
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
-Thanks for visiting! Let’s build something amazing together 🚀
+## 📫 Let’s Build Something Amazing
+
+Looking for a **Full Stack** or **Flutter** expert to build your next app?
+
+📩 **Message me on Upwork** for a free consultation — I usually respond within **2 hours** and am ready to get started immediately.
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ACoAAEFXKr0BXZq4aKn-vvciVnyYqlSGlPRJHvs)
+
+---
+
+> 💡 "Clean code, scalable apps, and smooth user experiences — that's my promise."
+
