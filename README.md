@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I'm Muhammad Ramzan, a Certified Full Stack Deve
 
 🚀 About Me
 
-I’m passionate about crafting innovative solutions that solve real-world problems. With expertise in hybrid mobile app development using Flutter and full-stack web development, I deliver seamless, high-performance applications. My proficiency spans Dart, JavaScript, TypeScript, PHP, Java, Kotlin, and Python, complemented by skills in API development, database management, and cloud technologies.
+I’m passionate about crafting innovative solutions that solve real-world problems. With expertise in hybrid mobile app development using Flutter and full-stack web development, I deliver seamless, high-performance applications. My proficiency spans Dart, JavaScript, TypeScript, PHP, Java and Kotlin, complemented by skills in API development, database management, and cloud technologies.
 
 I thrive in dynamic environments, leveraging Agile methodologies, version control, and continuous integration to ensure robust and efficient development processes. My goal is to create fast, reliable, and user-centric applications tailored to your business needs.
 
