@@ -1,10 +1,12 @@
 # 👋 Muhammad Ramzan — Certified Full Stack & Flutter Developer
 
-Struggling with slow, unreliable web or mobile apps? I’m **Muhammad Ramzan**, a 💻 **Certified Full Stack Developer** and mobile app expert with deep expertise in **Flutter**, **Laravel**, **React**, and **Vue**. I deliver blazing-fast, scalable applications that have boosted client efficiency by over **30%**.
+Welcome to my GitHub portfolio! I'm Muhammad Ramzan, a Certified Full Stack Developer with over 3 years of experience specializing in Flutter, PHP Laravel, React, Vue.js, and Node.js. I build scalable, secure, and user-friendly web and mobile applications that drive business success, with a proven track record of boosting client efficiency by 30%+. Explore my projects, skills, and achievements below to see how I can bring your ideas to life!
 
-Whether you need a modern web platform, a cross-platform mobile app, or robust APIs — I'm your go-to developer for speed, scalability, and precision.
+🚀 About Me
 
----
+I’m passionate about crafting innovative solutions that solve real-world problems. With expertise in hybrid mobile app development using Flutter and full-stack web development, I deliver seamless, high-performance applications. My proficiency spans Dart, JavaScript, TypeScript, PHP, Java, Kotlin, and Python, complemented by skills in API development, database management, and cloud technologies.
+
+I thrive in dynamic environments, leveraging Agile methodologies, version control, and continuous integration to ensure robust and efficient development processes. My goal is to create fast, reliable, and user-centric applications tailored to your business needs.
 
 ## 🚀 What I Do
 
