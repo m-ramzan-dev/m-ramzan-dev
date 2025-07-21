@@ -12,10 +12,12 @@ I thrive in dynamic environments, leveraging Agile methodologies, version contro
 
 ### 🌐 Full Stack Web Application Development  
 Build responsive, secure, and scalable web apps using:
+- 📱 **Flutter**
 - ⚙️ **Laravel**
 - ⚛️ **React.js**
 - 🖼 **Vue 3**
 - 🌿 **Node.js**
+- ⚙️ **Express.js**
 
 ### 📱 Hybrid Mobile App Development with Flutter  
 Create smooth, cross-platform mobile apps integrated with Firebase, RESTful APIs, and cloud services.
